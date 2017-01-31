@@ -8,7 +8,7 @@
 
 #### How do I get it
 
-* Download the folder UPLOAD_COLIN_CAMARA from bitbucket
+* Download the folder TPUpload from github
 * You can test it without architecture (Or add the file Upload.class.php in your Class folder)
 * How to run tests : 
 [Test_Server](http://colin.etudiant-eemi.com/perso/3A/TP/upload_colin_camara/TEST/)
